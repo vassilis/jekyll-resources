@@ -7,7 +7,7 @@ https://github.com/jekyll/jekyll
 @jekyllrb on Twitter
 https://twitter.com/jekyllrb
 
-Issues
+Issues  
 https://github.com/jekyll/jekyll/issues
 
 Jekyll Talk (Forums)  
