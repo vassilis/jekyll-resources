@@ -17,6 +17,9 @@ https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 Markdown  
 https://atom.io/packages/markdown-writer
 
+Supercharge Jekyll development with Yeoman.  
+https://github.com/robwierzbowski/generator-jekyllrb
+
 Advanced Jekyll Plugins & Features - Custom Post Types, Category Pages, Pagination, and More  
 https://divshot.com/blog/web-development/advanced-jekyll-features/
 
