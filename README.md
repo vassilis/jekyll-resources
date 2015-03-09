@@ -7,10 +7,10 @@ https://github.com/jekyll/jekyll
 Jekyll Talk  
 https://talk.jekyllrb.com/
 
-Plugins
+Plugins  
 http://jekyllrb.com/docs/plugins/
 
-Liquid
+Liquid  
 https://github.com/Shopify/liquid
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
