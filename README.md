@@ -1,6 +1,6 @@
 # jekyll-resources
 
-Jekyll is a blog-aware, static site generator in Ruby 
+**Jekyll is a blog-aware, static site generator in Ruby**  
 http://jekyllrb.com  
 https://github.com/jekyll/jekyll
 
