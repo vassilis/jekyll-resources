@@ -40,7 +40,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Markdown Writer - An Atom package for Jekyll  
 https://atom.io/packages/markdown-writer
 
-Vim Plugin
+Vim Plugin  
 https://github.com/parkr/vim-jekyll
 
 A Sublime Text package for Jekyll static sites  
