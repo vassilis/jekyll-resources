@@ -45,3 +45,6 @@ http://thinkshout.com/blog/2014/10/success-building-cmsless-production-sites-wit
 Build a Jekyll blog in minutes, without touching the command line  
 https://github.com/barryclark/jekyll-now
 
+Jekyll pro tip: how to design an awesome Archive page  
+http://schoewilliam.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html
+
