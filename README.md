@@ -19,6 +19,10 @@ http://stackoverflow.com/questions/tagged/jekyll
 Jekyll IRC Channel  
 [irc:irc.freenode.net/jekyll](irc:irc.freenode.net/jekyll)
 
+Jekyll Importers (Migrations)  
+http://import.jekyllrb.com/docs/home/  
+If you’re switching to Jekyll from another blogging system, Jekyll’s importers can help you with the move.
+
 ---
 
 Plugins  
@@ -28,8 +32,19 @@ Liquid
 https://github.com/Shopify/liquid  
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
-Markdown  
+Markdown Cheatsheet  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+---
+
+Markdown Writer - An Atom package for Jekyll  
 https://atom.io/packages/markdown-writer
+
+Vim Plugin
+https://github.com/parkr/vim-jekyll
+
+A Sublime Text package for Jekyll static sites  
+https://github.com/23maverick23/sublime-jekyll
 
 ---
 
