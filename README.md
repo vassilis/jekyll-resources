@@ -52,6 +52,9 @@ https://github.com/23maverick23/sublime-jekyll
 Supercharge Jekyll development with Yeoman  
 https://github.com/robwierzbowski/generator-jekyllrb
 
+A Tour of a Site In-Progress Built with Jekyll, Grunt, Sass, an SVG System, and More  
+https://css-tricks.com/video-screencasts/screencast-134-tour-site-progress-built-jekyll-grunt-sass-svg-system/
+
 Advanced Jekyll Plugins & Features - Custom Post Types, Category Pages, Pagination, and More  
 https://divshot.com/blog/web-development/advanced-jekyll-features/
 
