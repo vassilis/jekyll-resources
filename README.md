@@ -17,7 +17,7 @@ Jekyll on StackOverflow
 http://stackoverflow.com/questions/tagged/jekyll
 
 Jekyll IRC Channel  
-irc:irc.freenode.net/jekyll
+[irc:irc.freenode.net/jekyll](irc:irc.freenode.net/jekyll)
 
 ---
 
