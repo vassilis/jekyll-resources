@@ -13,6 +13,14 @@ https://github.com/jekyll/jekyll/issues
 Jekyll Talk (Forums)  
 https://talk.jekyllrb.com/
 
+Jekyll on StackOverflow  
+http://stackoverflow.com/questions/tagged/jekyll
+
+Jekyll IRC Channel  
+irc:irc.freenode.net/jekyll
+
+---
+
 Plugins  
 http://jekyllrb.com/docs/plugins/
 
@@ -23,7 +31,7 @@ https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 Markdown  
 https://atom.io/packages/markdown-writer
 
-------
+---
 
 Supercharge Jekyll development with Yeoman  
 https://github.com/robwierzbowski/generator-jekyllrb
@@ -36,10 +44,4 @@ http://thinkshout.com/blog/2014/10/success-building-cmsless-production-sites-wit
 
 Build a Jekyll blog in minutes, without touching the command line  
 https://github.com/barryclark/jekyll-now
-
-Jekyll on StackOverflow  
-http://stackoverflow.com/questions/tagged/jekyll
-
-Jekyll IRC Channel  
-irc:irc.freenode.net/jekyll
 
