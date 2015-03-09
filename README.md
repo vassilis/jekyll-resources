@@ -4,7 +4,7 @@
 http://jekyllrb.com  
 https://github.com/jekyll/jekyll
 
-Jekyll Talk  
+Jekyll Talk (Forums)  
 https://talk.jekyllrb.com/
 
 Plugins  
@@ -17,7 +17,7 @@ https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 Markdown  
 https://atom.io/packages/markdown-writer
 
-Supercharge Jekyll development with Yeoman.  
+Supercharge Jekyll development with Yeoman  
 https://github.com/robwierzbowski/generator-jekyllrb
 
 Advanced Jekyll Plugins & Features - Custom Post Types, Category Pages, Pagination, and More  
