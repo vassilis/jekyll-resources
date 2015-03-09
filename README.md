@@ -4,7 +4,7 @@
 http://jekyllrb.com  
 https://github.com/jekyll/jekyll
 
-@jekyllrb on Twitter
+@jekyllrb on Twitter  
 https://twitter.com/jekyllrb
 
 Issues  
