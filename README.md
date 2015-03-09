@@ -11,7 +11,7 @@ Plugins
 http://jekyllrb.com/docs/plugins/
 
 Liquid  
-https://github.com/Shopify/liquid
+https://github.com/Shopify/liquid  
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
 Markdown  
