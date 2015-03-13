@@ -67,3 +67,6 @@ https://github.com/barryclark/jekyll-now
 Jekyll pro tip: how to design an awesome Archive page  
 http://schoewilliam.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html
 
+Performant Websites with Jekyll, Grunt, GitHub Pages, and CloudFlare  
+http://davidensinger.com/2015/01/performant-websites-with-jekyll-grunt-github-pages-and-cloudflare/
+
