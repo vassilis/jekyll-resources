@@ -24,19 +24,26 @@ Jekyll Importers (Migrations)
 http://import.jekyllrb.com/docs/home/  
 If you’re switching to Jekyll from another blogging system, Jekyll’s importers can help you with the move.
 
----
+Deployment methods  
+http://jekyllrb.com/docs/deployment-methods/
 
 Plugins  
+---
 http://jekyllrb.com/docs/plugins/
 
+Jekyll Assets  
+http://jekyll-assets.github.io/jekyll-assets/
+
 Liquid  
+---
 https://github.com/Shopify/liquid  
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
+Markdown
+---
+
 Markdown Cheatsheet  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
----
 
 Markdown Writer - An Atom package for Jekyll  
 https://atom.io/packages/markdown-writer
@@ -47,6 +54,7 @@ https://github.com/parkr/vim-jekyll
 A Sublime Text package for Jekyll static sites  
 https://github.com/23maverick23/sublime-jekyll
 
+Articles
 ---
 
 Supercharge Jekyll development with Yeoman  
