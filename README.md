@@ -40,8 +40,8 @@ http://jekyll-assets.github.io/jekyll-assets/
 Liquid  
 ---
 https://github.com/Shopify/liquid  
-https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-http://cheat.markdunkley.com/
+https://github.com/Shopify/liquid/wiki/Liquid-for-Designers  
+http://cheat.markdunkley.com/  
 
 Markdown
 ---
