@@ -41,6 +41,8 @@ Liquid
 ---
 https://github.com/Shopify/liquid  
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers  
+
+Shopify Cheat Sheet - Liquid variables  
 http://cheat.markdunkley.com/  
 
 Markdown
