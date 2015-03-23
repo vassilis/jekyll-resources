@@ -37,10 +37,14 @@ http://jekyllrb.com/docs/plugins/
 Jekyll Assets  
 http://jekyll-assets.github.io/jekyll-assets/
 
-Liquid  
+Templates (Liquid)  
 ---
+Jekyll uses the Liquid templating language to process templates. All of the standard Liquid tags and filters are supported. Jekyll even adds a few handy filters and tags of its own to make common tasks easier.
+
+http://jekyllrb.com/docs/templates/
 https://github.com/Shopify/liquid  
 https://github.com/Shopify/liquid/wiki/Liquid-for-Designers  
+https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers  
 
 Shopify Cheat Sheet - Liquid variables  
 http://cheat.markdunkley.com/  
