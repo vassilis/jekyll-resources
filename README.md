@@ -64,6 +64,12 @@ https://github.com/parkr/vim-jekyll
 A Sublime Text package for Jekyll static sites  
 https://github.com/23maverick23/sublime-jekyll
 
+Guides & Tutorials
+---
+
+Jekyll Tips 
+http://jekyll.tips
+
 Articles
 ---
 
