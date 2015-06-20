@@ -37,6 +37,8 @@ http://jekyllrb.com/docs/plugins/
 Jekyll Assets  
 http://jekyll-assets.github.io/jekyll-assets/
 
+[Using Jekyll Plugins with GitHub Pages](https://help.github.com/articles/using-jekyll-plugins-with-github-pages/)
+
 Templates (Liquid)  
 ---
 Jekyll uses the Liquid templating language to process templates. All of the standard Liquid tags and filters are supported. Jekyll even adds a few handy filters and tags of its own to make common tasks easier.
