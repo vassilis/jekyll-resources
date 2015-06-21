@@ -96,3 +96,10 @@ http://schoewilliam.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html
 Performant Websites with Jekyll, Grunt, GitHub Pages, and CloudFlare  
 http://davidensinger.com/2015/01/performant-websites-with-jekyll-grunt-github-pages-and-cloudflare/
 
+Tips & Tricks
+---
+
+Force a rebuild on GH Pages by pushing an empty commit with this command:
+
+    git commit -m 'rebuild pages' --allow-empty
+
