@@ -37,6 +37,8 @@ http://jekyllrb.com/docs/plugins/
 Jekyll Assets  
 http://jekyll-assets.github.io/jekyll-assets/
 
+[Using Jekyll Plugins with GitHub Pages](https://help.github.com/articles/using-jekyll-plugins-with-github-pages/)
+
 Templates (Liquid)  
 ---
 Jekyll uses the Liquid templating language to process templates. All of the standard Liquid tags and filters are supported. Jekyll even adds a few handy filters and tags of its own to make common tasks easier.
@@ -64,6 +66,12 @@ https://github.com/parkr/vim-jekyll
 A Sublime Text package for Jekyll static sites  
 https://github.com/23maverick23/sublime-jekyll
 
+Guides & Tutorials
+---
+
+Jekyll Tips 
+http://jekyll.tips
+
 Articles
 ---
 
@@ -87,4 +95,11 @@ http://schoewilliam.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html
 
 Performant Websites with Jekyll, Grunt, GitHub Pages, and CloudFlare  
 http://davidensinger.com/2015/01/performant-websites-with-jekyll-grunt-github-pages-and-cloudflare/
+
+Tips & Tricks
+---
+
+Force a rebuild on GH Pages by pushing an empty commit with this command:
+
+    git commit -m 'rebuild pages' --allow-empty
 
